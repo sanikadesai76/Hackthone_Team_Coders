@@ -103,3 +103,16 @@ Prathamesh Patil – Spring Boot API & Integration
 Uday Yadav – Python ML Model & Prediction API
 
 
+## 📥 Download ML Model
+
+Due to GitHub file size limitations, the trained ML model is hosted on Google Drive.
+
+🔗 [Click here to download the model.zip folder] :: (https://drive.google.com/drive/folders/17nl-mE1UuxocWNXXksTL8LAqDzpHcshf)
+
+### 🛠️ Setup Instructions:
+1. Download the `model.zip` file from the Drive folder above.
+2. Extract the contents into the `ml-model/` folder of the project, like this:
+
+
+
+
