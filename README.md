@@ -102,25 +102,4 @@ Prathamesh Patil – Spring Boot API & Integration
 
 Uday Yadav – Python ML Model & Prediction API
 
-📄 License
-This project is open-source under the MIT License.
 
-💬 Notes
-
-Each emotion is mapped to a thoughtful letter:
-
-😞 Sad → “You’re not alone...”
-
-😠 Angry → “Take a deep breath...”
-
-😌 Calm → “Peace is power...”
-
-😊 Happy → “Keep spreading joy...”
-
-Easy to extend with:
-
-User login
-
-Database support
-
-More NLP-based emotion models
