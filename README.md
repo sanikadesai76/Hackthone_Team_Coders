@@ -2,7 +2,9 @@
 
 🧠 Healer'sHub – Mood Detection Based Emotional Assistant
 Developed at the 7th RIT Hackathon 2025
+
 👥 Team: Sanika Desai, Vaishnavi Shelar, Prathamesh Patil, Uday Yadav
+
 💡 Focus: Mood-based emotional support using ML and personalized messages
 
 📌 Project Overview
