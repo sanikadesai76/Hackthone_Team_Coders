@@ -36,7 +36,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/healershub.git
+git clone https://github.com/sanikadesai76/Hackthone_Team_Coders
 cd healershub
 Run the ML Model (Python)
 
